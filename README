@@ -1,0 +1,14 @@
+Side Quest Week 9 2. Group Members:
+Victory Okusanya vvcokusa 21017549 3. Description: Added Debug Screen and toggle feature to different modes: easy, Medium, Hard
+experience 4. Setup and Interaction Instructions:
+
+WASD or ARROW keys to move
+SPACE to jump
+(') to toggle debug screen
+M to change the modes
+
+7. References:
+
+Used Karen and David's week 9 example 3 document to create backbone of the game.
+
+All assets provided in the prior code.
